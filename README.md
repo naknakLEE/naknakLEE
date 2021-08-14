@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Reinforcement learning, computer vision
 - 📫 How to reach me inhak4488@gmail.com
 
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+
+
 <!---
 naknakLEE/naknakLEE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
