@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f8a200&height=250&section=header&text=naknakLEE&fontSize=60&fontAlign=78&fontColor=ffffff)
 
 <h5 align="center">
-Hi. I am a developer who lives in Korea and likes mangoes.🥭<br> I have experience in developing deep learning computer vision and backend development. <br> Feel free to contact me if you have any questions about me. <br> Have a good time today!
+Hi. I am a developer who lives in Korea and likes mangoes.🥭<br> I have experience in developing deep learning computer vision and backend development. <br> If you have any questions about me, feel free to contact me via email. <br> Have a good time today!
 </h5>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
