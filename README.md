@@ -6,6 +6,8 @@
 https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naknakLEE&&show_icons=tru)]
+
 <!---
 naknakLEE/naknakLEE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
