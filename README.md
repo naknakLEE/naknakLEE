@@ -3,8 +3,12 @@
 - 🌱 I’m currently learning Reinforcement learning, computer vision
 - 📫 How to reach me inhak4488@gmail.com
 
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
- <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank">
+
+
+[<img src="https://img.shields.io/badge/Fastlane-282C34?logo=fastlane&logoColor=00F200" alt="Fastlane logo" title="Fastlane" height="25" />][tech_tools_anchor]
+&nbsp;
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naknakLEE&count_private=true&show_icons=true&icon_color=ff8f1c&title_color=ff8f1c&hide=stars)
 
 <!---
