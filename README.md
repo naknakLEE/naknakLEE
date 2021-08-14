@@ -30,10 +30,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=naknakLEE&count_private=true&show_icons=true&icon_color=ff8f1c&title_color=ff8f1c&hide=stars" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=naknakLEE&layout=compact" />
-</a>
-
 
 <!---
 naknakLEE/naknakLEE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
