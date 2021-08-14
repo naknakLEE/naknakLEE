@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>&nbsp 
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naknakLEE&count_private=true&show_icons=true&icon_color=ff8f1c&title_color=ff8f1c&hide=stars)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naknakLEE&count_private=true&show_icons=true&icon_color=ff8f1c&title_color=ff8f1c&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naknakLEE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
