@@ -33,23 +33,6 @@ Hi. I am a developer who lives in Korea and likes mangoes.🥭<br> I have experi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naknakLEE&layout=compact"/></a>&nbsp
 </p>
 
-<br>
-<h3 align="center">❤️ My Blogs ❤️</h3>
-<p align="center">
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://naknaklee.github.io)&nbsp
-  [<img src="http://www.google.com.au/images/nav_logo7.png">](http://naknaklee.github.io/)
-  [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-
-
-  
-</p>
-
-<br>
-<h3 align="center">🥭 Contact Me 🥭</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naknakLEE&layout=compact"/></a>&nbsp
-</p>
 
 <!---
 naknakLEE/naknakLEE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
